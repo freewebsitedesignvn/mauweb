@@ -1,0 +1,1 @@
+<br><div class="fb-comments" data-href="http://shoprevn.com/empowr/<?php if (isset($link)) echo $link;?>" data-numposts="10"></div>
